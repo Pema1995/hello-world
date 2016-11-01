@@ -1,4 +1,4 @@
 # hello-world
 
-Just texting this thing out.
+Just testing this thing out.
 Academic purposes only.
